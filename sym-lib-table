@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Chimere_comps")(type "KiCad")(uri "${KI_GITHUB}/00_chimere_lib/chimere_symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "Chimere_mods")(type "KiCad")(uri "${KI_GITHUB}/00_chimere_lib/Chimere_mods.kicad_sym")(options "")(descr ""))
+)
